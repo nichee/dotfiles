@@ -1,0 +1,17 @@
+[python]
+disabled = true
+
+[gcloud]
+disabled = true
+
+[java]
+disabled = true
+
+[package]
+disabled = true
+
+[gradle]
+disabled = true
+
+[aws]
+disabled = true
