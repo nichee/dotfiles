@@ -116,3 +116,6 @@ export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 eval "$(starship init zsh)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+alias vim="nvim"
+alias vi="nvim"
