@@ -243,6 +243,10 @@
     }
   },
   "shortcuts" : {
+    "bottomCenterSixth" : {
+      "keyCode" : 47,
+      "modifierFlags" : 1310720
+    },
     "bottomHalf" : {
       "keyCode" : 125,
       "modifierFlags" : 1310720
@@ -251,8 +255,8 @@
       "keyCode" : 40,
       "modifierFlags" : 1310720
     },
-    "bottomRight" : {
-      "keyCode" : 37,
+    "bottomLeftSixth" : {
+      "keyCode" : 43,
       "modifierFlags" : 1310720
     },
     "bottomRightSixth" : {
@@ -296,8 +300,8 @@
       "modifierFlags" : 1310720
     },
     "maximize" : {
-      "keyCode" : 36,
-      "modifierFlags" : 786432
+      "keyCode" : 3,
+      "modifierFlags" : 1310720
     },
     "maximizeHeight" : {
       "keyCode" : 126,
@@ -331,12 +335,20 @@
       "keyCode" : 11,
       "modifierFlags" : 786432
     },
+    "topCenterSixth" : {
+      "keyCode" : 41,
+      "modifierFlags" : 1310720
+    },
     "topHalf" : {
       "keyCode" : 126,
       "modifierFlags" : 1310720
     },
     "topLeft" : {
       "keyCode" : 32,
+      "modifierFlags" : 1310720
+    },
+    "topLeftSixth" : {
+      "keyCode" : 37,
       "modifierFlags" : 1310720
     },
     "topRight" : {
