@@ -1,0 +1,19 @@
+# Internal Claude session & cache data
+backups/
+cache/
+file-history/
+history.jsonl
+mcp-needs-auth-cache.json
+sessions/
+session-env/
+shell-snapshots/
+telemetry/
+paste-cache/
+downloads/
+plugins/
+usage-data/
+
+# Project session data (keep memory/, ignore everything else inside projects/)
+projects/*/*
+!projects/*/memory/
+!projects/*/memory/**
