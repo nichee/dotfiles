@@ -12,6 +12,16 @@ paste-cache/
 downloads/
 plugins/
 usage-data/
+.DS_Store
+.last-cleanup
+daemon-auth-cooldown
+daemon-auth-status.json
+daemon.log
+daemon/
+jobs/
+plans/
+tasks/
+settings.local.json
 
 # Project session data (keep memory/, ignore everything else inside projects/)
 projects/*/*
